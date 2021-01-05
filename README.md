@@ -31,7 +31,7 @@ const Edgar = {
 ```
 
 
-### About []]
+### About NUWE
 
 ![Nuwe](./cover.png)
 
