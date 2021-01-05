@@ -26,7 +26,7 @@ const Edgar = {
                         description: "The development and job search platform of the future",
                         url: "https://nuwe.io"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I am about to start the #100DaysOfCode challenge focusing on React and JS"
 }
 ```
 
