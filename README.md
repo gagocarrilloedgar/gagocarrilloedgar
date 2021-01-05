@@ -1,4 +1,4 @@
-<h2> Hi there, I'm Edgar Gago <h2>
+<h2> Hi there, I'm Edgar Gago </h2>
 
 <img align='right' src="./Assets/profile.png" width="230">
 
@@ -8,7 +8,7 @@
 </em></p>
 
 
-[![Linkedin: edgargagocarrillo](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edgargagocarrillo/)](https://www.linkedin.com/in/edgargagocarrillo/)
+[![Linkedin: edgargagocarrillo](https://img.shields.io/badge/-edgargagocarillo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edgargagocarrillo/)](https://www.linkedin.com/in/edgargagocarrillo/)
 [![GitHub gagocarrilloedgar](https://img.shields.io/github/followers/gagocarrilloedgar?label=follow&style=social)](https://github.com/gagocarrilloedgar)
 
 
@@ -36,7 +36,7 @@ const Edgar = {
 ![Nuwe](./cover.png)
 
 
-[NUWE](https://nuwe.io) is the next-gen platform that combines digital tech professional development with job search engines.
+![NUWE](https://nuwe.io) is the next-gen platform that combines digital tech professional development with job search engines.
 
 
 At [NUWE](https://nuwe.io) you'll be able to attend online hackathons, validate your skills, learn new technologies and receive job offers acording to your abilties and results at our challenges and competitions.
