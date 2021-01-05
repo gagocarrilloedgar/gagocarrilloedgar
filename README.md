@@ -36,7 +36,7 @@ const Edgar = {
 ![Nuwe](./cover.png)
 
 
-[NUWE](https://nuwe.io) is the next-gen platform that combines digital tech professional development with job search engines.
+![NUWE](https://nuwe.io) is the next-gen platform that combines digital tech professional development with job search engines.
 
 
 At [NUWE](https://nuwe.io) you'll be able to attend online hackathons, validate your skills, learn new technologies and receive job offers acording to your abilties and results at our challenges and competitions.
