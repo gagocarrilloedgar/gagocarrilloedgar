@@ -16,8 +16,8 @@
 
 ```javascript
 const Edgar = {
-  code: [Javascript, HTML, CSS, Matlab, R, SQL],
-  tools: [React, Node, Azure, AWS, MongoDB,Vercel, Heroku],
+  code: [Javascript, HTML, CSS, Matlab, R, SQL,C,C++,Dart],
+  tools: [React, Node, Azure, AWS, MongoDB,Vercel, Heroku,Flutter],
   ID: [VSCode],
   design: [Figma, Anima, Sketch],
   architecture: ["microservices", "event-driven", "design system pattern"],
