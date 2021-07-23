@@ -29,7 +29,18 @@ const Edgar = {
  challenge: "I am about to start the #100DaysOfCode challenge focusing on React and JS"
 }
 ```
+
+# Some trophies
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=gagocarrilloedgar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+### :zap: GitHub Stats
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gagocarrilloedgar&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title= &layout=compact" /><br>
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gagocarrilloedgar&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br>
+
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gagocarrilloedgar&theme=dracula" /></p>
 
 
 
