@@ -29,6 +29,8 @@ const Edgar = {
  challenge: "I am about to start the #100DaysOfCode challenge focusing on React and JS"
 }
 ```
+[![trophy](https://github-profile-trophy.vercel.app/?username=gagocarrilloedgar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ### About NUWE
