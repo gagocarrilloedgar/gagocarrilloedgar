@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edgar</h1>
-<h3 align="center">A JS/TS-based fullstack software developer</h3>
+<h3 align="center">A fullstack software engineer</h3>
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -12,15 +12,13 @@
 [![GitHub gagocarrilloedgar](https://img.shields.io/github/followers/gagocarrilloedgar?label=follow&style=social)](https://github.com/gagocarrilloedgar)
 
 
-- 🔭 I’m currently working on [nuwe](https://nuwe.io)
+- 🔭 I’m currently working on [Sia](https://sia.so)
 
-- 🌱 I’m currently learning **Docker, Solidity, React Native & Go**
+- 🌱 I’m currently learning **IA, Event-driven, Event-storming & Neo4j**
 
 - 👨‍💻 All of my projects are available at [https://itsedgar.vercel.app/projects](https://itsedgar.vercel.app/projects)
 
-- 📝 I regularly write articles on [https://itsedgar.vercel.app](https://itsedgar.vercel.app)
-
-- 💬 Ask me about **React, Next, TS, Node**
+- 💬 Ask me about **React, Next, TS, Node & Python**
 
 - 📫 How to reach me **readme.edgar@gmail.com**
 
