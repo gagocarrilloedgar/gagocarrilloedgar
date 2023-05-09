@@ -12,9 +12,9 @@
 [![GitHub gagocarrilloedgar](https://img.shields.io/github/followers/gagocarrilloedgar?label=follow&style=social)](https://github.com/gagocarrilloedgar)
 
 
-- 🔭 I’m currently working on [Sia](https://sia.so)
+- 🔭 I’m currently working in [Factorial](https://factorial.com)
 
-- 🌱 I’m currently learning **IA, Event-driven, Event-storming & Neo4j**
+- 🌱 I’m currently learning **IA, Event-driven, Event-storming & Ruby&Rails**
 
 - 👨‍💻 All of my projects are available at [https://itsedgar.vercel.app/projects](https://itsedgar.vercel.app/projects)
 
