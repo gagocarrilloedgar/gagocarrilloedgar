@@ -14,11 +14,11 @@
 
 - 🔭 I’m currently working in [Factorial](https://factorial.com)
 
-- 🌱 I’m currently learning **IA, Event-driven, Event-storming & Ruby&Rails**
+- 🌱 I’m currently learning ** GraphQL, Event-driven, Event-storming & Ruby&Rails**
 
 - 👨‍💻 All of my projects are available at [https://itsedgar.vercel.app/projects](https://itsedgar.vercel.app/projects)
 
-- 💬 Ask me about **React, Next, TS, Node & Python**
+- 💬 Ask me about **React, Next, TS, Node, Python & Rails**
 
 - 📫 How to reach me **readme.edgar@gmail.com**
 
@@ -33,11 +33,5 @@
 </p>
 
 <br/>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gagocarrilloedgar&show_icons=true&locale=en&theme=tokyonight" alt="gagocarrilloedgar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gagocarrilloedgar&theme=tokyonight" alt="gagocarrilloedgar" /></p>
-
 
 
