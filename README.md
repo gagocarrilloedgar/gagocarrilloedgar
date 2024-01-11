@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working in [Factorial](https://factorial.com)
 
-- 🌱 I’m currently learning ** GraphQL, Event-driven, Event-storming & Ruby&Rails**
+- 🌱 I’m currently focused on **GraphQL, Rails, SQL Perfomance & system design**
 
 - 👨‍💻 All of my projects are available at [https://itsedgar.vercel.app/projects](https://itsedgar.vercel.app/projects)
 
